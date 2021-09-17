@@ -1,0 +1,21 @@
+.spanLblShopByCategory {
+    margin-left: -100px;
+    font-family: system-ui;
+    font-weight: 500;
+    font-size: 19px;
+    color: grey;
+}
+.imgFoodFruitVegetables {
+    height: 100px;
+    text-align: center;
+}
+.imgFoodBakeryDairyFrozen {
+    height: 100px;
+    text-align: center;
+}
+.spanLblFoodFruitVegetables {
+
+}
+.spanLblFoodBakeryDairyFrozen {
+
+}
